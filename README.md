@@ -1,2 +1,2 @@
 # temp-repo
-I'm a student. I test a commit feature.
+I'm a student. Now I'm testing a commit feature.
